@@ -30,3 +30,10 @@ const myFun = function(){
 // console.log(typeof runs); number
 // console.log(typeof heros); object
 // console.log(typeof anoterId); symbol
+
+// Uncomment the following lines to see the types logged to the console
+// console.log(typeof bigNumber); // 'bigint' if uncommented
+// console.log(typeof tempOut); // 'object'
+// console.log(typeof runs); // 'number'
+// console.log(typeof heroes); // 'object'
+// console.log(typeof anotherId); // 'symbol'
